@@ -1,3 +1,0 @@
-function Hola(modelo:string){
- 
-}
